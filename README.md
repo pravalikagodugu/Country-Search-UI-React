@@ -84,6 +84,5 @@ li {
 }
 
 export default App;
-### Live Demo
-Check the live demo [here](your-netlify-link)
+
 
