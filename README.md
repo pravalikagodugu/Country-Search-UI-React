@@ -87,8 +87,3 @@ export default App;
 ### Live Demo
 Check the live demo [here](your-netlify-link)
 
-### How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Country-Search-UI-React.git
-Install depe
