@@ -64,7 +64,6 @@ function App() {
     </div>
   );
 }
-
 .App {
   text-align: center;
   padding: 20px;
